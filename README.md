@@ -7,6 +7,7 @@
 
 
 
+![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleph-Kim&layout=compact&theme=dark)[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjdej)](https://solved.ac/dktjdej)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=es7705)
