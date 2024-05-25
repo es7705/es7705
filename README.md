@@ -1,2 +1,2 @@
-0## Hi there 👋
-0#My tech stack
+## Hi there 👋
+#My tech stack
