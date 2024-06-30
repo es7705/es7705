@@ -28,7 +28,7 @@
 |info | link |
 |------|---|
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tina908)](https://solved.ac/es7705/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=es7705)](https://solved.ac/es7705/)
 
 # 📌 My github 📌
 
