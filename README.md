@@ -33,15 +33,15 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tina908&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=es7705&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kwon yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tina908&count_private=true)
+![Kwon yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=es7705&count_private=true)
 
 
 
 
 <!--
-**tina908/tina908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**es7705/es7705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
