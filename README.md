@@ -26,7 +26,7 @@
 |info | link |
 |------|---|
 |Device Driver| [Device Driver](https://github.com/es7705/Device-Driver) |
-|STM32| [STM32] (https://github.com/es7705/Cortex-M3-STM32F103RB)
+|STM32| [STM32](https://github.com/es7705/Cortex-M3-STM32F103RB)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=es7705)](https://solved.ac/es7705/)
 
