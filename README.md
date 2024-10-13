@@ -18,6 +18,7 @@
 | project name |info | link | 수행기관 | year |
 |----|----|------|-------|----|
 | 날씨 무드등 우산 건조기 | esp8266으로 와이파이를 연결하여 기상청 RSS 정보를 받아와 날씨에 따라 색이 변화하는 무드등과 우산 자동 건조기  | [Weather-Mood-Light-Umbrella-Dryer](https://github.com/es7705/Weather-Mood-Light-Umbrella-Dryer) | 한라대학교 | 2023 |
+| 날씨 무드등 우산 건조기 | esp8266으로 와이파이를 연결하여 기상청 RSS 정보를 받아와 날씨에 따라 색이 변화하는 무드등과 우산 자동 건조기  | [Weather-Mood-Light-Umbrella-Dryer](https://github.com/es7705/Weather-Mood-Light-Umbrella-Dryer) | 한라대학교 | 2023 |
 
 
 # 📌 learning 📌
