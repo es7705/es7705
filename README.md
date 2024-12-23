@@ -18,7 +18,7 @@
 | project name |info | link | 수행기관 | year |
 |----|----|------|-------|----|
 | 홈IOT | STM32와 MQTT를 활용한 홈IOT | [HOME_IOT](https://github.com/es7705/HOME_IOT) | 개인 프로젝트 | 2024 |
-| 디지털 전자시계 | 제작한 PCB와 STM32를 활용한 디지털 전자시계 | [Clock_Project]([https://github.com/es7705/HOME_IOT](https://github.com/es7705/Clock_Project)) | 개인 프로젝트 | 2024 |
+| 디지털 전자시계 | 제작한 PCB와 STM32를 활용한 디지털 전자시계 | [Clock_Project](https://github.com/es7705/Clock_Project) | 개인 프로젝트 | 2024 |
 | 날씨 무드등 우산 건조기 | 날씨에 따라 색이 변화하는 무드등과 우산 자동 건조기  | [Weather-Mood-Light-Umbrella-Dryer](https://github.com/es7705/Weather-Mood-Light-Umbrella-Dryer) | 한라대학교 | 2023 |
 
 
